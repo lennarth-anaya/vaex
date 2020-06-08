@@ -24,6 +24,10 @@ conda install -c conda-forge vaex
 #  or pip install vaex
 ```
 
+# Run the examples
+
+As per step 3, recall to activate your environment if you are re-running this examples.
+
 5. Run the examples (jupyter allows to see plots, though Python interactive mode would also work in most of the cases):
 
 ```
