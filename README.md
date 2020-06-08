@@ -2,7 +2,7 @@
 
 Python / Vaex test to check if it's that fast and how it works with huge files (it wasn't so cool with 16 GB of RAM).
 
-# Setup
+## Setup
 
 1. Make sure you have Python 3.7 and [Anacodna](https://www.anaconda.com/products/individual)
 
@@ -25,7 +25,7 @@ conda install -c conda-forge vaex
 #  or pip install vaex
 ```
 
-# Run the examples
+## Run the examples
 
 As per step 3, recall to activate your environment if you are re-running this examples.
 
