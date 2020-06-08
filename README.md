@@ -1,5 +1,6 @@
-# vaex
-Python/Vaex test
+# Vaex
+
+Python / Vaex test to check if it's that fast and how it works with huge files (it wasn't so cool with 16 GB of RAM).
 
 # Setup
 
